@@ -11,14 +11,20 @@
 ```
 
 **Pummel Macro. This macro uses Pummel against your focus target, if you have one, or against your current target if you have no focus target.**
-`#showtooltip Pummel
-/cast [@focus, harm, exists][@target] Pummel`
+```
+#showtooltip Pummel
+/cast [@focus, harm, exists][@target] Pummel
+```
 
 **Automatic Heroic Leap. This will cast Heroic Leap where ever your cursor is located, without waiting for the targeting circle.**
-`#showtooltip Heroic Leap
-/cast [@cursor] Heroic Leap`
+```
+#showtooltip Heroic Leap
+/cast [@cursor] Heroic Leap
+```
 
 **Charge and Victory Rush. Because Charge is off the Global Cooldown, Victory Rush or any other melee ability can be used on the same keybind. When outside of melee range, Charge will be cast instead.**
-`#showtooltip
+```
+#showtooltip
 /cast Charge
-/cast Victory Rush`
+/cast Victory Rush
+```
