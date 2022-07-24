@@ -26,6 +26,32 @@
 /script C_PartyInfo.LeaveParty()
 ```
 
+## Gold Making
+
+Pull Timer: This macro will start a pull timer for you so you know when to stop killing mobs and start to loot them. Adjust the time to your liking.**
+```
+/sw 01:40
+/sw play
+```
+
+**Delete items: This will delete all items at once containing the word 'fang'. You can replace the word 'fang' with the item you want to destroy in your bags.**
+```
+/run for bag = 0,4,1 do for slot = 1, 32, 1 do local name = GetContainerItemLink(bag,slot); if name and string.find(name,"Fang") then PickupContainerItem(bag,slot); DeleteCursorItem(); end; end; end
+```
+
+**Disenchant: This one can be used to disenchant a certain item by clicking the macro button. Replace the 'Aspirant's Staff of Grace' by the item you want to disenchant.**
+```
+/cast Disenchant
+/use Aspirant's Staff of Grace
+```
+
+**Equip Fishing: This will equip your fishing pole & fishing hat at once. Replace the fishing pole and hat with the one you own.**
+```
+/Equip Underlight Angler
+/Equip Weather-Beaten Fishing Hat
+/use Weather-Beaten Fishing Hat
+```
+
 ## Fury Warrior
 
 **Cancel Bladestorm Macro. This macro allows you to cancel your Bladestorm early. You cannot cast other abilities while Bladestorming, so this can be useful if targets die during the channel.**
