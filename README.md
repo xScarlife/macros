@@ -16,7 +16,7 @@
 /mountspecial
 ```
 
-**Reset Instance: This will reset the instance by clicking the macro. (Currently not working in Shadowlands, looking for a fix).**
+**Reset Instance: This will reset the instance by clicking the macro.**
 ```
 /script ResetInstances();
 ```
