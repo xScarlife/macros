@@ -4,9 +4,11 @@
 ## Fury Warrior
 
 **Cancel Bladestorm Macro. This macro allows you to cancel your Bladestorm early. You cannot cast other abilities while Bladestorming, so this can be useful if targets die during the channel.**
-`#showtooltip Bladestorm
+```
+#showtooltip Bladestorm
 /cancelaura Bladestorm
-/cast Bladestorm`
+/cast Bladestorm
+```
 
 **Pummel Macro. This macro uses Pummel against your focus target, if you have one, or against your current target if you have no focus target.**
 `#showtooltip Pummel
