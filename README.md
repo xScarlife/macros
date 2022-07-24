@@ -28,7 +28,7 @@
 
 ## Gold Making
 
-Pull Timer: This macro will start a pull timer for you so you know when to stop killing mobs and start to loot them. Adjust the time to your liking.**
+**Pull Timer: This macro will start a pull timer for you so you know when to stop killing mobs and start to loot them. Adjust the time to your liking.**
 ```
 /sw 01:40
 /sw play
