@@ -1,7 +1,7 @@
 # List of Useful Retail Macro's
 **Here I will post helpful macro's that you can use in-game for general gameplay or gold making.**
 
-## General macro's
+## General
 
 **3 mounts in one: This macro will let you cast one of the mounts that you add in the macro.**
 ```
