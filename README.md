@@ -2,7 +2,6 @@
 **Here I will post helpful macro's that you can use in-game for general gameplay or gold making.**
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY_LsfkMQS--TVMvGl90rNA?style=social)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fxscarlife)
 ![Twitch Status](https://img.shields.io/twitch/status/xscarlife?style=social)
 ## General
 
